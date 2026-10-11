@@ -1,0 +1,21 @@
+<misterromdescription>
+  <name>Super Mouse</name>
+  <setname>suprmous</setname>
+  <rbf>SuperMouse</rbf>
+  <mameversion>0268</mameversion>
+  <buttons names="Button 1,Start 1P,Start 2P,Coin" default="A,Start,Select,R" />
+  <rom index="0" zip="suprmous.zip" md5="17ef899829ddf3212e4663b32e1eb490">
+    <part name="sm.1" crc="9db2b786" />
+    <part name="sm.2" crc="0a3d91d3" />
+    <part name="sm.3" crc="32af6285" />
+    <part name="sm.4" crc="46091524" />
+    <part name="sm.5" crc="f15fd5d2" />
+    <part name="sm.6" crc="fba71785" />
+    <part name="sm.8" crc="2f81ab5f" />
+    <part name="sm.9" crc="8463af89" />
+    <part name="sm.7" crc="1d476696" />
+    <part name="smouse2.clr" crc="8c295553" />
+    <part name="smouse1.clr" crc="d815504b" />
+  </rom>
+  <nvram index="4" size="32" />
+</misterromdescription>
