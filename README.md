@@ -19,7 +19,7 @@ Only **Super Mouse** is supported. Funny Mouse is not included.
 
 ## Installation
 
-1. Copy `releases/SuperMouse_20261006.rbf` to `/_Arcade/cores/`.
+1. Copy `releases/Arcade-SuperMouse_20261006.rbf` to `/_Arcade/cores/` as `SuperMouse_20261006.rbf`. The official Distribution installer removes the `Arcade-` prefix.
 2. Copy `releases/Super Mouse (suprmous).mra` to `/_Arcade/`.
 3. Supply your legally obtained `suprmous.zip` in `/games/mame/` and launch the MRA.
 
@@ -106,6 +106,6 @@ The supplied release RBF is the previously tested build. A newly compiled RBF sh
 
 **Release SHA-256:**
 
-`SuperMouse_20261006.rbf`
+`Arcade-SuperMouse_20261006.rbf`
 
 `7f85c1073960acd5c3073045dbfc9b9f16d9c3602a5c4b6bcc7ae92dff3bfd59`
